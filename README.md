@@ -1,1 +1,0 @@
-# kernel-kmeans-implementation-from-scratch
